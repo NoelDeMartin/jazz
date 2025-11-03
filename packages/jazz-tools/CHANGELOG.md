@@ -1,5 +1,14 @@
 # jazz-tools
 
+## 0.18.37
+
+### Patch Changes
+
+- 68e0b26: chore: ErrorBoundary around inspector to handle render errors
+  - cojson@0.18.37
+  - cojson-storage-indexeddb@0.18.37
+  - cojson-transport-ws@0.18.37
+
 ## 0.18.36
 
 ### Patch Changes

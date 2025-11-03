@@ -1,5 +1,12 @@
 # passkey-svelte
 
+## 0.0.165
+
+### Patch Changes
+
+- Updated dependencies [68e0b26]
+  - jazz-tools@0.18.37
+
 ## 0.0.164
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # cojson-storage-indexeddb
 
+## 0.18.37
+
+### Patch Changes
+
+- cojson@0.18.37
+
 ## 0.18.36
 
 ### Patch Changes
